@@ -1,5 +1,7 @@
 # Add  code here!
+def prime?(num)
 
+end
 
 #How do you create a range of numbers?
 #(1..)
